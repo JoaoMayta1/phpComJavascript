@@ -1,0 +1,14 @@
+{
+    "name": "user/projeto-com-java",
+    "autoload": {
+        "psr-4": {
+            "User\\ProjetoComJava\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "joao"
+        }
+    ],
+    "require": {}
+}
